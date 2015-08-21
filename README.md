@@ -1,5 +1,7 @@
 # Developing-Data-Products
 
+Application uses Galton's data.
+
 Histogram visualize the distribution of child heights.
 
 Used slider to vary the bin size of the histogram.
